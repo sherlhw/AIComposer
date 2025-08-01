@@ -1,0 +1,29 @@
+[
+    {
+        "id": "0",
+        "prompt": "a Pikachu doll",
+        "background_image": "examples/8_a Pikachu doll_in a cartoon room/background_image.png",
+        "background_mask": "examples/8_a Pikachu doll_in a cartoon room/background_mask.png",
+        "ref_image": "examples/8_a Pikachu doll_in a cartoon room/ref_image.png",
+        "ref_mask": "examples/8_a Pikachu doll_in a cartoon room/ref_mask.png",
+        "blend_image": "examples/8_a Pikachu doll_in a cartoon room/blend_image.png"
+    },
+    {
+        "id": "1",
+        "prompt": "a seagull",
+        "background_image": "examples/195_a seagull_a seagull in the space/background_image.png",
+        "background_mask": "examples/195_a seagull_a seagull in the space/background_mask.png",
+        "ref_image": "examples/195_a seagull_a seagull in the space/ref_image.png",
+        "ref_mask": "examples/195_a seagull_a seagull in the space/ref_mask.png",
+        "blend_image": "examples/195_a seagull_a seagull in the space/blend_image.png"
+    },
+    {
+        "id": 2,
+        "prompt": "a pencil drawing of a fox in the sunset",
+        "background_mask": "examples/0008 a pencil drawing of a fox in the sunset/mask_bg_fg.jpg",
+        "blend_image": "examples/0008 a pencil drawing of a fox in the sunset/cp_bg_fg.jpg",
+        "background_image": "examples/0008 a pencil drawing of a fox in the sunset/bg52.png",
+        "ref_image": "examples/0008 a pencil drawing of a fox in the sunset/fg34_63d22a811f5b66e8e5ac2969.jpg",
+        "ref_mask": "examples/0008 a pencil drawing of a fox in the sunset/fg34_mask.png"
+    }
+]
