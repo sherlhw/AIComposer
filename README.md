@@ -41,5 +41,16 @@ python demo.py # SDXL版本
 
 
 ## Acknowledgments
-Our work is standing on the shoulders of giants. We thank the following contributors that our code is based on: [diffusers](https://github.com/huggingface/diffusers) and [IP-Adapter](https://github.com/tencent-ailab/IP-Adapter).
+Our work is standing on the shoulders of giants. We thank the following contributors that our code is based on: [diffusers](https://github.com/huggingface/diffusers), [IP-Adapter](https://github.com/tencent-ailab/IP-Adapter), [TF-ICON](https://github.com/Shilin-LU/TF-ICON/) and [Magic Insert](https://magicinsert.github.io/?ref=aiartweekly).
 
+
+## Citation
+If you find AIComposer useful for your research and applications, please cite using this BibTeX:
+```bibtex
+@article{li2025aicomposerstylecontentimage,
+      title={AIComposer: Any Style and Content Image Composition via Feature Integration}, 
+      author={Haowen Li and Zhenfeng Fan and Zhang Wen and Zhengzhou Zhu and Yunjin Li},
+      booktitle={arXiv preprint arxiv:2507.20721},
+      year={2025}
+}
+```
